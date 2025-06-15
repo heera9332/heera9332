@@ -40,7 +40,7 @@ Full-time web developer responsible for designing, developing, and maintaining r
 - **Place -** [Sagar, Madhya Pradesh](https://maps.app.goo.gl/YYPxEiTH2B3aiJou9), India · On-site
 - **Profile -** Web Developer
 - **Employment Type -** Full-Time
-- **Date -** May 2024 - Present · 7 mos
+- **Date -** May 2024 - Present · 1 Year 2 Month
 
 As a Web Developer at Madquick, I have been responsible for building and maintaining web solutions across various projects.
 
