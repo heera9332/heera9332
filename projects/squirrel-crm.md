@@ -32,4 +32,6 @@ I primarily worked as a **Frontend Developer**, focusing on:
 
 ## 📷 Screenshots
 
-(Add images here if available)
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/image6.png" alt="edevhindi images">

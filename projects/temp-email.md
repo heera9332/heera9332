@@ -43,3 +43,10 @@ Built a custom email parsing function to clean up formatting and ensure correct 
 - Building a custom server with Next.js and Node.js.
 - Handling complex email parsing and real-time updates efficiently.
 - This project highlights my expertise in real-time data handling, secure email processing, and creating a seamless user experience through advanced server-client communication.
+
+### Screenshots
+
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/crm1.png" alt="edevhindi images">
+<img src="https://zoro-dev.com/assets/github/crm2.png" alt="edevhindi images">

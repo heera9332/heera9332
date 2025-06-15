@@ -7,6 +7,13 @@ A practice website built to learn and implement **Next.js** with **Static Site G
 - **🔗 Live Demo:** [Portfolio 2.0](https://portfolio-2-0-theta-topaz.vercel.app/)
 - **📂 Source Code:** [GitHub Repository](https://github.com/heera9331/portfolio-2.0)
 
+### Screenshots
+
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/image4.png" alt="Heera Singh Portfolio image">
+
+
 ---
 
 ## 🎨 Portfolio
@@ -15,6 +22,13 @@ A **static** HTML, CSS, and JavaScript website showcasing my core **frontend dev
 
 - **🔗 Live Demo:** [Portfolio](https://edevhindi.com/portfolio/)
 - **📂 Source Code:** [GitHub Repository](https://github.com/heera9331/portfolio)
+
+### Screenshots
+
+**Main**
+---
+
+<img src="https://zoro-dev.com/assets/github/image5.png" alt="Heera Singh Portfolio image">
 
 ---
 
@@ -29,6 +43,12 @@ A **CMS-based website** built using **WordPress** and custom **HTML, CSS, JavaSc
 - **🔗 Website:** [www.edevhindi.com](https://www.edevhindi.com)
 - **📖 Description:** A content management system (CMS) website.
 - **📚 Learnings:** SEO, Blogging
+
+### Screenshots
+
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/image6.png" alt="edevhindi images">
 
 ---
 
@@ -55,6 +75,12 @@ A website built for **Shree Sagar Restaurants and Cafe**, enhancing their **onli
 - **📚 Learnings:** WordPress customization, UI/UX for food industry, SEO.
 - **🔗 Website:** [ssrc.vipdigitalhub.com](https://ssrc.vipdigitalhub.com/)
 
+### Screenshots
+
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/ssrc.png" alt="shree sagar restaurant images">
+
 ---
 
 ## 🧩 Code Fragments
@@ -67,6 +93,13 @@ A collection of **reusable code snippets** and **utilities** that solve common p
   - CSS animations and UI components
   - API integration examples
 - **📂 Source Code:** (To be added)
+
+
+### Screenshots
+
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/code-fragments.png" alt="code fragments image">
 
 ---
 
@@ -81,3 +114,9 @@ Technical documentation for **various projects**, covering **installation, setup
   - Server Deployment Notes
 - **📂 Source Code:** (To be added)
 
+
+### Screenshots
+
+**Main**
+<hr>
+<img src="https://zoro-dev.com/assets/github/code-docs.png" alt="code docs image">
