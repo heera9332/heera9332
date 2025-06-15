@@ -13,7 +13,7 @@
     </p>
 </div>
 
-**Full Stack Developer | MERN Stack | WordPress & React Native | Building scalable web & mobile solutions 🚀**
+**Full Stack Software Developer | MERN Stack | WordPress & React Native | Building scalable web & mobile solutions 🚀**
 
 Contact me for Freelance Projects [Form](#) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/heera9331/) for any Doubt Clearance
 
