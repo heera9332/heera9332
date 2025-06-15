@@ -48,5 +48,4 @@ Built a custom email parsing function to clean up formatting and ensure correct 
 
 **Main**
 <hr>
-<img src="https://zoro-dev.com/assets/github/crm1.png" alt="edevhindi images">
-<img src="https://zoro-dev.com/assets/github/crm2.png" alt="edevhindi images">
+<img src="https://zoro-dev.com/assets/github/temp-email.png" alt="temp email images"> 

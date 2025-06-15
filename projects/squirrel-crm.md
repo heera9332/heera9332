@@ -30,8 +30,9 @@ I primarily worked as a **Frontend Developer**, focusing on:
 - ✅ User notes management
 - ✅ Notification
 
-## 📷 Screenshots
+## Screenshots
 
 **Main**
 <hr>
-<img src="https://zoro-dev.com/assets/github/image6.png" alt="edevhindi images">
+<img src="https://zoro-dev.com/assets/github/crm1.png" alt="squirrel crm">
+<img src="https://zoro-dev.com/assets/github/crm2.png" alt="squirrel crm">
