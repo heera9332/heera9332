@@ -24,3 +24,15 @@ Homepage & Dashboard
 
 <hr>
 <img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight2.png" alt="the-insight">
+
+
+<hr>
+
+<iframe
+  width="560" height="315"
+  src="https://youtu.be/1o_TWgiTIBI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
