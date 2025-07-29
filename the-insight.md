@@ -20,7 +20,7 @@ The-Sight v0.1.0 (Initial release)
 Homepage & Dashboard
 
 <hr>
-<img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight.png" alt="">
+<img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight-min.png" alt="the-insight">
 
 <hr>
-<img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight2.png" alt="">
+<img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight2.png" alt="the-insight">
