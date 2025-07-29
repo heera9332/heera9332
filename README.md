@@ -92,14 +92,6 @@ As a Web Developer Intern at [Madquick](https://madquick.in), I worked on multip
 
 ## 👩‍💻 [Projects](https://github.com/heera9331/heera9331/tree/main/projects)
 
-### [US Number Plate Designer](./projects/us-number-plate-designer.md)
-
-- **Description:** This project is a fully custom online number plate builder, developed as a custom WordPress/WooCommerce integration for selling UK vehicle registration plates. The system enables users to design their own legal-compliant front and rear plates with a live preview feature, adhering to UK sizing and character spacing regulations.
-- **Technology Used:** - WordPress (Plugin)m WooCommerce, JavaScript (Live Preview), PHP, AJAX API, WordPress API
-- **Demo:** UKRegPlates.co.uk (Reference) , PlatesExpress.co.uk Number Plate Maker (Reference)
-- **Role** Solo developer
-- **Screenshots** - [click here](./projects/us-number-plate-designer.md)
-
 ### [Squirrel CRM](./projects/squirrel-crm.md)
 
 - **Description:** Squirrel CRM is a robust customer relationship management (CRM) system designed to streamline business workflows, improve customer interactions, and enhance team collaboration.
@@ -139,15 +131,7 @@ This project reflects my ability to take an idea from concept to deployment—ha
   - Developing a real-time email reception system using WebSockets.  
   - Creating a responsive and intuitive frontend using ReactJS.  
   - Setting up a secure backend using NodeJS and ExpressJS to handle email generation and processing.  
-  - Implementing automatic email expiration and cleanup to optimize performance.  
-
-
-### [College Counseling System](https://college-counselling-alpha.vercel.app/)
-
-- **Description:** Designed and developed a MERN Stack 'college counseling' web application.
-- **Technology Used:** ReactJS, NodeJS, ExpressJS, MongoDB
-- **Source Code:** [COLLEGE COUNSELING SYSTEM](https://github.com/heera9331/college-counselling)
-- **Live Link** [https://college-counselling-alpha.vercel.app/]
+  - Implementing automatic email expiration and cleanup to optimize performance.
 
 ### [Portfolio Website](https://edevhindi.com/portfolio)
 
@@ -155,12 +139,6 @@ This project reflects my ability to take an idea from concept to deployment—ha
 - **Technology Used:** HTML, CSS, JavaScript
 - **Live Link:** [View Portfolio](https://edevhindi.com/portfolio)
 - **Source Code:** [Portfolio Source Code](https://github.com/heera9331/portfolio)
-
-### [Edevhindi](https://edevhindi.com)
-
-- **Description:** Designed and developed a responsive [WordPress](http://wordpress.org/) blogging website providing programming and computer-related knowledge.
-- **Technology Used:** WordPress
-- **Live Link:** [edevhindi](https://edevhindi.com/)
 
 ## Internships
 
