@@ -14,14 +14,15 @@ Live Preview: #
 
 This project showcases end-to-end full-stack development—from content modeling in Payload CMS and dynamic form workflows to automated email delivery—allowing me to independently take a web application from concept through to scalable deployment.
 
+## Demo Video
+
+[![Watch the video](https://www.zoro-dev.com/assets/github/the-insight/video-thumb.png)](https://www.youtube.com/watch?v=1o_TWgiTIBI&ab_channel=HeeraSingh)
+
+
 ## Screenshots
 
 The-Sight v0.1.0 (Initial release)
 Homepage & Dashboard
-
-## Demo Video
-
-[![Watch the video](https://www.zoro-dev.com/assets/github/the-insight/video-thumb.png)](https://www.youtube.com/watch?v=1o_TWgiTIBI&ab_channel=HeeraSingh)
 
 
 <hr>
