@@ -21,5 +21,6 @@ Homepage & Dashboard
 
 <hr>
 <img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight.png" alt="">
+
 <hr>
 <img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight2.png" alt="">
