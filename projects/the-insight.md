@@ -30,9 +30,12 @@ Homepage & Dashboard
 
 <iframe
   width="560" height="315"
-  src="https://youtu.be/1o_TWgiTIBI"
+  src=""
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+
+[![Watch the video](https://www.zoro-dev.com/assets/github/the-insight/video-thumb.png)](https://www.youtube.com/watch?v=1o_TWgiTIBI&ab_channel=HeeraSingh)
