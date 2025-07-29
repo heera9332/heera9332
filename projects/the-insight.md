@@ -19,6 +19,11 @@ This project showcases end-to-end full-stack development—from content modeling
 The-Sight v0.1.0 (Initial release)
 Homepage & Dashboard
 
+## Demo Video
+
+[![Watch the video](https://www.zoro-dev.com/assets/github/the-insight/video-thumb.png)](https://www.youtube.com/watch?v=1o_TWgiTIBI&ab_channel=HeeraSingh)
+
+
 <hr>
 <img src="https://www.zoro-dev.com/assets/github/the-insight/the-insight-min.png" alt="the-insight">
 
@@ -29,6 +34,3 @@ Homepage & Dashboard
 <hr>
 
 
-## Demo Video
-
-[![Watch the video](https://www.zoro-dev.com/assets/github/the-insight/video-thumb.png)](https://www.youtube.com/watch?v=1o_TWgiTIBI&ab_channel=HeeraSingh)
