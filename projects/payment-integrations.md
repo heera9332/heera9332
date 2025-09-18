@@ -25,10 +25,15 @@ Kakao Pay (Korean: 카카오페이) is a **mobile payment and digital wallet ser
 - Integrated **3D Secure authentication** to ensure **safe and verified transactions**.
 - Developed a **custom WooCommerce plugin** to handle payment requests.
 
+### Razorpay
+- Integrate with single and recurring payments
+
+
 ## 📌 Technologies Used
 - **WordPress & WooCommerce**
 - **PHP & MySQL**
 - **Custom API Integrations**
 - **Secure Payment Handling**
+- **NodeJS + ReactJS**
 
 These integrations allow WooCommerce users to **expand their payment options**, ensuring **fast, secure, and seamless transactions**. 🚀
